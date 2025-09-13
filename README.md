@@ -23,4 +23,10 @@ docker-compose up -d --build
 ```
 http://localhost:5000
 ```
+###4. Флаг
+
+```
+лежит в /notes/1
+PSUTICTF{IDOR_1s_s0_34sy}
+```
 
